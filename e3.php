@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>EJERCICIO 3</title>
+        <title>Ejercicio 3</title>
     </head>
     <body>
         <h1>EJERCICIO 3</h1>
