@@ -1,6 +1,6 @@
 <?php
     echo "<title>Ejercicio 10</title>";
-    echo "<h1>EJERCICIO 10</h1>";
+    echo "<h1>EJERCICIO 10 - WHILE</h1>";
     $x = 1;
     while ($x < 100){
         echo "$x, ";

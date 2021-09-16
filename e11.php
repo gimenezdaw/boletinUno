@@ -3,7 +3,7 @@
         <title>Ejercicio 11</title>
     </head>
     <body>
-        <h1>EJERCICIO 11</h1>
+        <h1>EJERCICIO 11 - WHILE</h1>
         <form method="post" action="forme11.php">
             <p>Introduce un número: <input type="number" name="numero" value="0">
             <input type="submit" value="Verificar"></p>
