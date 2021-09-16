@@ -1,7 +1,6 @@
 <?php
     $number = $_POST['numero'];
-    function divisores($numero)
-    {
+    function divisores($numero){
         echo "Los divisores de $numero son: ";
         for ($i = 1, $total = 0; $i <= $numero; $i++) {
             if ($numero % $i == 0) {

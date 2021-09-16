@@ -6,7 +6,7 @@
         <h1>EJERCICIO 16</h1>
         <?php
             function fibonacci ($numero){
-                echo "Los $numero términos de la serie de Fibonacci son: <br>";
+                echo "Los $numero primeros términos de la serie de Fibonacci son: <br>";
                 $x = 0;    
                 $y = 1; 
                 $total = 0;
