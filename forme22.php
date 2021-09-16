@@ -14,6 +14,6 @@
         }
     }
     primo($numero);
-    echo "<br><br><button><a href='./e22'>VOLVER AL EJERCICIO</a></button>";
+    echo "<br><br><button><a href='./e22.php'>VOLVER AL EJERCICIO</a></button>";
     echo "<br><br><button><a href='./index.html'>VOLVER AL INICIO</a></button>";
 ?>

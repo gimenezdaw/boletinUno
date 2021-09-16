@@ -3,7 +3,7 @@
     function tabla_mult($number){
         if($number<1 or $number>10){
             echo "Introduce un número del 1 al 10.";
-            echo "<br><br><button><a href='./e11.php'>VOLVER</a></button>";
+            echo "<br><br><button><a href='./e11.php'>VOLVER AL EJERCICIO</a></button>";
         }else{
             echo "La tabla de multiplicar de $number es:<br>";
             $i = 1;

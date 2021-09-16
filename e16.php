@@ -3,7 +3,7 @@
         <title>Ejercicio 16</title>
     </head>
     <body>
-        <h1>EJERCICIO 16</h1>
+        <h1>EJERCICIO 16 - WHILE</h1>
         <?php
             function fibonacci ($numero){
                 echo "Los $numero primeros términos de la serie de Fibonacci son: <br>";

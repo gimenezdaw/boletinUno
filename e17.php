@@ -1,6 +1,6 @@
 <?php
     echo "<title>Ejercicio 17</title>";
-    echo "<h1>EJERCICIO 17</h1>";
+    echo "<h1>EJERCICIO 17 - FOR</h1>";
     $x = 1;
     for($i=1; $i < 100; $i++){
         echo "$x, ";

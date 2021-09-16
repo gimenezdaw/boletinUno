@@ -12,12 +12,13 @@
                 }
                 ++$i;
             }
+            echo "<br><br><button><a href='./e14.php'>VOLVER AL EJERCICIO</a></button>";
+            echo "<br><br><button><a href='./index.html'>VOLVER AL INICIO</a></button>";
         }else{
             echo "Introduce un número positivo";
             echo "<br><br><button><a href='./e14.php'>VOLVER AL EJERCICIO</a></button>";
-
+            echo "<br><br><button><a href='./index.html'>VOLVER AL INICIO</a></button>";
         }           
     }
     divisores($number);
-    echo "<br><br><button><a href='./index.html'>VOLVER AL INICIO</a></button>";
 ?>

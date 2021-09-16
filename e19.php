@@ -3,7 +3,7 @@
         <title>Ejercicio 19</title>
     </head>
     <body>
-        <h1>EJERCICIO 19</h1>
+        <h1>EJERCICIO 19 - FOR</h1>
         <?php
         $x=100;
         for ($x; $x > 0; $x--){

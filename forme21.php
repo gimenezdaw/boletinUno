@@ -11,5 +11,6 @@
         echo "<br>Total divisores: $total";
     }
     divisores($number);
-    echo "<br><br><button><a href='./index.html'>VOLVER</a></button>";
+    echo "<br><br><button><a href='./e21.php'>VOLVER AL EJERCICIO</a></button>";
+    echo "<br><br><button><a href='./index.html'>VOLVER AL INICIO</a></button>";
 ?>

@@ -3,7 +3,7 @@
         <title>Ejercicio 20</title>
     </head>
     <body>
-        <h1>EJERCICIO 20</h1>
+        <h1>EJERCICIO 20 - FOR</h1>
         <?php
             function crearPiramide($lineas){
                 $simbolo = null;

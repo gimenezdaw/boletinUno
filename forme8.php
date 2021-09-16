@@ -13,5 +13,6 @@
         echo "El producto y la suma son iguales";
     }
     suma_m_producto($number1, $number2, $suma, $producto);
-    echo "<br><br><button><a href='./index.html'>VOLVER</a></button>";
+    echo "<br><br><button><a href='./e8.php'>VOLVER AL EJERCICIO</a></button>";
+    echo "<br><br><button><a href='./index.html'>VOLVER AL INICIO</a></button>";
 ?>
