@@ -7,5 +7,5 @@
         echo "$x,";
         $x= $x - $y;
     }echo 0;
-    echo "<br><br><button><a href='index.html'>VOLVER</a></button>";
+    echo "<br><br><button><a href='./index.html'>VOLVER</a></button>";
 ?>

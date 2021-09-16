@@ -4,7 +4,6 @@
     </head>
     <body>
         <h1>EJERCICIO 4</h1>
-
         <?php 
         $primera = 4;
         $segunda = 8;
@@ -15,7 +14,7 @@
         echo "<br>La raíz cuadrada de ".$primera." es: ".$raiz_primera;
         echo "<br>La raíz cuadrada de ".$segunda." es: ".$raiz_segunda;
         ?>
-
-        <br><br><button><a href="index.html">VOLVER</a></button>
+        <br><br>
+        <button><a href="./index.html">VOLVER</a></button>
     </body>
 </html>

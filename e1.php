@@ -9,6 +9,6 @@
 <body>
     <?php echo "Esta es la primera práctica escrita en PHP" ?>
     <p>Escrita por Giménez Guillard, Sandra</p>
-    <button><a href="index.html">VOLVER</a></button>
+    <button><a href="./index.html">VOLVER</a></button>
 </body>
 </html>
